@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="undo">UNDO</string>
+</resources>
